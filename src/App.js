@@ -7,7 +7,10 @@ function App() {
 			<header className='App-header'>
 				<img src={logo} className='App-logo' alt='logo' />
 
-				<pending>Chaben Jade Alagbay</pending>
+				<p>Chaben Jade Alagbay</p>
+
+				<h1>React Router DOM</h1>
+				<h1>React Helmet</h1>
 			</header>
 		</div>
 	);
