@@ -11,6 +11,7 @@ function App() {
 
 				<h1>React Router DOM</h1>
 				<h1>React Helmet</h1>
+				<h1>React Icons</h1>
 			</header>
 		</div>
 	);
